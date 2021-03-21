@@ -68,7 +68,7 @@ class Experiment{
                 noLoop();
                 background(255);
                 fill(0);
-                text('Zapisywanie danych. Prosimy nie wyłączać przeglądarki.', width/3, height/3);
+                text('', width/3, height/3);
                 text(result, width/2, height/1.5);
             });
         }
