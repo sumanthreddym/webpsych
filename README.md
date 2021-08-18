@@ -1,6 +1,6 @@
 # webpsych
 
-webpsych is a javascript library to create experiments for vision and neuroscience research.
+webpsych is an open-source javascript library to create experiments for vision and neuroscience research.
 
 **Contributors:**
 Sumanth Reddy Muni,
